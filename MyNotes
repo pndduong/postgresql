@@ -1,0 +1,5 @@
+Listing all users
+\du
+\duS+
+select * from pg_roles
+select * from pg_user
